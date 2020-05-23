@@ -1,6 +1,10 @@
-# Grafica
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png) ![alt-text](https://blog.daydevelops.com/storage/cover/2019/11/24/P7ruVkm1evJ0iTabU3zOW7RZcmlPwZZwzH0626JO.png)
+
+# Gráfica sockets
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
+
+![](Graphsocket-demo.gif)
 
 ## Development server
 
@@ -25,3 +29,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## References
+
+This is an exercise of Udemy course (https://www.udemy.com/angular-2-fernando-herrera/) By Fernando Herrera (https://github.com/Klerith)
